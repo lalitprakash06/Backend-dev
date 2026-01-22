@@ -1,0 +1,8 @@
+JavaScript Everywhere: Developers can use the same language (JavaScript) for both frontend
+and backend development, reducing context switching and enabling code reuse between client
+and server.High Performance: The V8 engine compiles JavaScript to native machine code, making
+execution extremely fast. The non-blocking I/O model allows Node.js to handle thousands of
+concurrent connections efficiently.Rich Ecosystem: NPM (Node Package Manager) provides access to over a million packages,
+making it easy to add functionality to your applications without reinventing the wheel.Major companies including Netflix, LinkedIn, Uber, PayPal, NASA, and Walmart use Node.js in
+their production systems, demonstrating its reliability and scalability for enterprise applications.Major companies including Netflix, LinkedIn, Uber, PayPal, NASA, and Walmart use Node.js in
+their production systems, demonstrating its reliability and scalability for enterprise applications.
