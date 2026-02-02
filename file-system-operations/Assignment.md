@@ -1,7 +1,8 @@
 📘 Node.js File System Operations – Assignment
-👨‍💻 Student: Harsh Chimnani
+👨‍💻 Student: Lalit Prakash
 📚 Topic: File System Module (fs) in Node.js
 ✅ Assessment Question Answers
+
 1. Difference between synchronous and asynchronous file operations
 Synchronous	Asynchronous
 Blocks program execution	Non-blocking
