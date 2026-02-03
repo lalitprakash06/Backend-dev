@@ -1,0 +1,8 @@
+Unix is a powerful, multiuser, multitasking operating system originally developed in the 1970s.
+Modern variants include Linux, macOS, and BSD systems.
+Key Characteristics:
+● Hierarchical file system
+● Everything is a file (including devices)
+● Case-sensitive commands and filenames
+● Strong security and permission model
+● Powerful command-line interface (CLI)
